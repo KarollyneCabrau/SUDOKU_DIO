@@ -16,6 +16,6 @@ Linguagem: Java
 
 IDE: IntelliJ IDEA
 
-📌 Observações
+📌 *Observações*
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander DIO.
